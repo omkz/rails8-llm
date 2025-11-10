@@ -67,4 +67,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "ruby_llm", "~> 1.8"
+gem "ruby_llm", "~> 1.9"
